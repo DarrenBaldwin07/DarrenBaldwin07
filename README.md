@@ -6,7 +6,8 @@ Full-time student and Jr developer from Cincinnati, Ohio. Highly organized and e
 
 ## Experiance 
 <> Python 
-<> Swift 
+<> Swift
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devd0)  
 
