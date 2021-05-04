@@ -10,7 +10,7 @@ Full-time student and Jr developer from Cincinnati, Ohio. Highly organized and e
 
 ## Profile Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devd0)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Devd0=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Devd0_count=5&theme=tokyonight)]()
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devd0)  
 
 
