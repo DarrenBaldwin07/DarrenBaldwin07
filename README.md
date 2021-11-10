@@ -9,6 +9,8 @@ Full-time student and developer. Highly organized and efficient worker + student
 <> Swift
 <> Javascript
 <> HTML/CSS
+<> Vue.js
+<> Django
 
 ## Profile Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devd0)](https://github.com/anuraghazra/github-readme-stats)
