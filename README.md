@@ -10,6 +10,7 @@ Full-time student and developer. Highly organized and efficient worker + student
 <> Javascript
 <> HTML/CSS
 <> Vue.js
+<> React
 <> Django
 
 ## Profile Stats
