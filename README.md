@@ -4,11 +4,11 @@
 # Darren Baldwin
 Full-time student and developer. Highly organized and efficient worker + student who enjoys the art of learning new ideas. Strong communicator and leader who strives to affect others by example. Specialize in both backend and frontend development, specifically with Javascript, HTML/CSS, and Python.  
 
-## Experience 
+## Experience
+<> Next.js
+<> Typescript
 <> Python 
-<> Swift
 <> Javascript
-<> HTML/CSS
 <> Vue.js
 <> React
 <> Django
