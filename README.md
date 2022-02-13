@@ -14,8 +14,8 @@ Full-time student and developer. Highly organized and efficient worker + student
 <> Django
 
 ## Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devd0)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devd0)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Devd&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Devd0&langs_count=5&theme=tokyonight)]()
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Devd0)
 [<img src='https://user-images.githubusercontent.com/68653294/128366252-d60fb58e-48f4-4a7c-ba7c-34c3aa1e9b4b.png' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/real-darren-baldwin/)
