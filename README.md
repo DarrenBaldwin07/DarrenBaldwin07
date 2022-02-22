@@ -8,7 +8,7 @@ Full-time student and developer. Highly organized and efficient worker + student
 - Next.js
 - Typescript
 - Python 
-- Javascript
+- Javascript/Node.js
 - Vue.js
 - React
 - Django
