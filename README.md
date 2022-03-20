@@ -7,10 +7,10 @@ Full-time student and developer. Highly organized and efficient worker + student
 ## Tech Stack 🛠
 - Next.js
 - Typescript
+- Node.js/Javascript
 - ChakraUI
-- Javascript/Node.js
-- Vue.js
 - React
+- Vue.js
 - Python
 - Django
 
