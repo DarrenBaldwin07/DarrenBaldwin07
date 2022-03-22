@@ -11,6 +11,7 @@ Full-time student and developer. Highly organized and efficient worker + student
 - ChakraUI
 - React
 - Vue.js
+- GraphQL
 - Python
 - Django
 
