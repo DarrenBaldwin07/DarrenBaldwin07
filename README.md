@@ -9,6 +9,7 @@ Full-time software engineer. Highly organized and efficient worker who enjoys th
 - Next.js
 - Typescript
 - Node.js/Javascript
+- Dart
 - ChakraUI
 - React
 - Vue.js
