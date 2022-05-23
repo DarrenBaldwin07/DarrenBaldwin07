@@ -18,9 +18,6 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 - Django
 
 
-## Profile Stats
-![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devd0&count_private=true)
-
 
 
 
