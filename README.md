@@ -3,13 +3,13 @@
 
 
 # Darren Baldwin
-FullStack software engineer. Highly organized and efficient worker who enjoys the art of learning new ideas. Strong communicator and leader who strives to affect others by example. Specialize in both backend and frontend development, specifically with Typescript/Javascript, Next.js/React, and Python.  
+FullStack software engineer. Highly organized and efficient worker who enjoys the art of learning new ideas. Strong communicator and leader who strives to affect others by example. Specialize in both backend and frontend development, specifically with Typescript/Javascript, Next.js/React, Dart/Flutter, and Python.  
 
 ## Tech Stack 🛠
 - Next.js
 - Typescript
 - Node.js/Javascript
-- Dart
+- Dart + Flutter
 - ChakraUI
 - React
 - Vue.js
