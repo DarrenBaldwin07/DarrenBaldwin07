@@ -16,3 +16,5 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 - GraphQL
 - Python
 - Django
+- Rust
+
