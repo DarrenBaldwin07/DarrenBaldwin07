@@ -7,7 +7,7 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 
 ## Tech Stack 🛠
 - Rust
-- Vite.js/React
+- Vite.js/React/Remix.run
 - Typescript
 - GraphQL
 - ChakraUI
