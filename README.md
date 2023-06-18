@@ -10,7 +10,7 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 - Vite.js/React/Remix.run/Nextjs
 - Typescript
 - GraphQL
-- ChakraUI
+- TailwindCSS
 - Vue.js
 - Node.js/Javascript
 - Dart + Flutter
