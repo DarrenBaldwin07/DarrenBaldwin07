@@ -8,11 +8,11 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 ## Tech Stack 🛠
 - Rust
 - Vite.js/React/Remix.run/Nextjs
-- Typescript
+- Typescript/Javascript
 - GraphQL
 - TailwindCSS
 - Vue.js
-- Node.js/Javascript
+- Node.js
 - Dart + Flutter
 - PostgreSQL
 - Python
