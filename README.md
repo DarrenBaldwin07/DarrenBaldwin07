@@ -17,5 +17,6 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 - PostgreSQL
 - Python
 - Django
+- And a bunch of other shit...
 
 [![wakatime](https://wakatime.com/badge/user/4846b6ec-023c-402e-9ec8-c2ad667aea0f.svg)](https://wakatime.com/@4846b6ec-023c-402e-9ec8-c2ad667aea0f)
