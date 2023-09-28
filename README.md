@@ -5,7 +5,7 @@
 # Darren Baldwin
 FullStack software engineer. Highly organized and efficient worker who enjoys the art of learning new ideas. Strong communicator and leader who strives to affect others by example. Specialize in both backend and frontend development, specifically with Rust, Typescript/Javascript, React/Remix.run, Dart/Flutter, and Python.  
 
-## Tech Stack 🛠
+## Tech I know + use 🛠
 - Rust
 - Vite.js/React/Remix.run/Nextjs
 - Typescript/Javascript
