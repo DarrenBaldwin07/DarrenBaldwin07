@@ -9,12 +9,12 @@ FullStack software engineer. Highly organized and efficient worker who enjoys th
 - Rust
 - Vite.js/React/Remix.run/Nextjs
 - Typescript/Javascript
+- PostgreSQL
 - GraphQL
 - TailwindCSS
 - Vue.js
 - Node.js
 - Dart + Flutter
-- PostgreSQL
 - Python
 - Django
 - And basically every technology you can think of...
