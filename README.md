@@ -3,7 +3,7 @@
 
 
 # Darren Baldwin
-I enjoy starting companies and writing code. Learn more about me on my personal site <a href='https://darrenbaldwin.dev' target='_blank'>darrenabaldwin.dev</a> 
+I enjoy starting companies and writing code. Learn more about me on my personal site <a href='https://darrenbaldwin.dev' target='_blank'>darrenbaldwin.dev</a> 
 
 ## Tech 🛠
 - Rust
