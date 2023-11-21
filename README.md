@@ -8,8 +8,8 @@ I like starting companies and writing code. Learn more about me on my personal s
 
 ## Tech 🛠
 - Rust
-- Vite.js/React/Remix.run/Nextjs
 - Typescript/Javascript
+- Vite.js/React/Remix.run/Nextjs
 - PostgreSQL
 - GraphQL
 - TailwindCSS
