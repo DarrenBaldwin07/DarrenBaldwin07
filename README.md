@@ -4,7 +4,7 @@
 
 
 # Darren Baldwin
-I like starting companies and writing code. Learn more about me on my personal site <a href='https://darrenbaldwin.dev' target='_blank'>darrenbaldwin.dev</a> 
+I like starting companies and writing code -- <a href='https://darrenbaldwin.dev' target='_blank'>darrenbaldwin.dev</a> 
 
 ## Tech 🛠
 - Rust
