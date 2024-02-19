@@ -8,13 +8,12 @@ I like starting companies and writing code • <a href='https://darrenbaldwin.de
 
 ## Tech 🛠
 - Rust
-- Typescript/Javascript
+- Typescript/Javascript/Node.js
 - Vite.js/React/Remix.run/Nextjs
 - PostgreSQL
 - GraphQL
 - TailwindCSS
 - Vue.js
-- Node.js
 - Dart + Flutter
 - Python
 - Django
