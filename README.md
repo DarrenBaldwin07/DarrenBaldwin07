@@ -9,7 +9,7 @@ I like starting companies and writing code • <a href='https://darrenbaldwin.de
 ## Tech 🛠
 - Rust
 - Typescript/Javascript/Node.js
-- Vite.js/React/Remix.run/Nextjs
+- React/Remix/Nextjs/Vite
 - PostgreSQL
 - GraphQL
 - TailwindCSS
