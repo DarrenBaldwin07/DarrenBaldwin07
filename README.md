@@ -6,7 +6,6 @@
 # Darren Baldwin
 I like starting companies and writing code • <a href='https://darrenbaldwin.dev' target='_blank'>darrenbaldwin.dev</a> 
 
-## Tech 🛠
 - Rust
 - Typescript/Javascript/Node.js
 - React/Remix/Nextjs/Vite
