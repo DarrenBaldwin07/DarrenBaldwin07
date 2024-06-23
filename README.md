@@ -6,7 +6,7 @@
 # Darren Baldwin
 I like starting companies and writing code • <a href='https://darrenbaldwin.dev' target='_blank'>darrenbaldwin.dev</a> 
 
-### Some tech I like to use :) 
+### I frequently work with all of the below 
 - Rust
 - Typescript/Javascript/Node.js
 - React/Remix/Nextjs/Vite
@@ -15,8 +15,7 @@ I like starting companies and writing code • <a href='https://darrenbaldwin.de
 - TailwindCSS
 - Vue.js
 - Dart + Flutter
-- Python
-- Django
+- Python/Django/Flask
 - Java
 
 [![wakatime](https://wakatime.com/badge/user/4846b6ec-023c-402e-9ec8-c2ad667aea0f.svg)](https://wakatime.com/@4846b6ec-023c-402e-9ec8-c2ad667aea0f)
